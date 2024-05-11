@@ -19,9 +19,9 @@ namespace App\Console\Commands;
  * **********************************************************************
  *
  * Features:
- *  - Easy reaction role configuration with /add-reaction-role /set-reaction-role
+ *  - Easy reaction role configuration with /add-reaction-role and /set-reaction-role
  *  - Saves reaction role configuration settings in a local reaction_roles.json.
- *  - Automatically adds roles when configured reactions are removed.
+ *  - Automatically adds roles when configured reactions are added.
  *  - Automatically removes roles when configured reactions are removed.
  *  - Ignores reactions added or removed by bots.
  *
